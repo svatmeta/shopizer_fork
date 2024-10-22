@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - main
+      - 3.2.5-actual
 
 
 jobs:
